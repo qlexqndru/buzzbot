@@ -7,7 +7,6 @@ BuzzBot is an intelligent chatbot built with [Streamlit](https://streamlit.io/) 
 ## 📋 Table of Contents
 
 - [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Usage](#usage)
