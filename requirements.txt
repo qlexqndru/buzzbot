@@ -1,0 +1,8 @@
+langchain
+langchain-groq
+langsmith
+streamlit
+serpapi
+google-search-results
+datetime
+langchain-core
