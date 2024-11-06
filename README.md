@@ -36,7 +36,7 @@ BuzzBot is an intelligent chatbot built with [Streamlit](https://streamlit.io/) 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/buzzbot.git
+git clone https://github.com/qlexqndru/buzzbot.git
 cd buzzbot
 ```
 
